@@ -26,3 +26,7 @@ coverage
 *.njsproj
 *.sln
 *.sw?
+
+src/firebase/index.ts
+.firebase/
+.vscode/
